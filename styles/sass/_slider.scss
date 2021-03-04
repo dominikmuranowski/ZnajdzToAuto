@@ -1,0 +1,35 @@
+.bx-wrapper {
+    box-shadow: none;
+    border: none;
+    height: 1000px;
+    margin-bottom: 80px !important;
+
+    .bx-viewport,
+    #slider {
+        height: 500px;
+    }
+     
+    #slider > div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: $info;
+        color: yellow;
+        height: 100%;
+        font-size: 2rem;
+    }
+    
+    .bx-caption {
+        opacity: 0.7;
+
+        span {
+            color: yellow;
+            font-family: 'Quicksand', sans-serif;;
+            display: block;
+            font-size: .7em;
+            padding: 10px;
+          }
+
+    }
+
+}

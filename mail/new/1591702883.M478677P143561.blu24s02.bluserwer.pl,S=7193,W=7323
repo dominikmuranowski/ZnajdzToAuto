@@ -1,0 +1,130 @@
+Return-Path: <info@stavebnezakazky.eu>
+Delivered-To: obzhqeqa@blu24s02.bluserwer.pl
+Received: from blu24s02.bluserwer.pl
+	by blu24s02.bluserwer.pl with LMTP
+	id GJK8G2N1317JMAIAmW6cVg
+	(envelope-from <info@stavebnezakazky.eu>)
+	for <obzhqeqa@blu24s02.bluserwer.pl>; Tue, 09 Jun 2020 13:41:23 +0200
+Return-path: <info@stavebnezakazky.eu>
+Envelope-to: info@muranowski.pl
+Delivery-date: Tue, 09 Jun 2020 13:41:23 +0200
+Received: from smtpx74.stable.cz ([213.109.164.90]:52641)
+	by blu24s02.bluserwer.pl with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <info@stavebnezakazky.eu>)
+	id 1jicd7-000dPs-0D
+	for info@muranowski.pl; Tue, 09 Jun 2020 13:41:23 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=stavebnezakazky.eu; s=luruq-c5edtru78; h=Content-Type:Message-ID:Subject:To
+	:From:Date:MIME-Version:Sender:Reply-To:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=cCtetIFUtejuPRvEz5DeGBl8WUMFDemV6dkKpw+TQvo=; b=AvqMguV9XL1mlOyW8xKNR3MKj
+	wklWWcnO2oK6L63vu01yWXMCA3KGiR+3AvFvLvbOBHfr/3minMUKaiXSss+C3le054UIO1OUVxl4H
+	TWIT6X7jCPp82O8iKACJjjmZWIpUyQyXQmPHAZux0ac63/3gOtGg57/UeVynh12ceSeRZ8Lzlb0cB
+	Rh7rF6JAn9erP/jbFzCnDQE8cAZhEy9YNTdu5Bh4wQY/FzYimgEUd/EoABjHxy43n+0NmHlgnjkCc
+	8rnMlMkNunkNGgcyOdK8N3XeoYk1MmHHS1yIetKFQmD4vHNHynovoC9lvT8YPyIhzCtYneHBtEbRR
+	nbqoL0j3A==;
+Received: from [UNAVAILABLE] ([88.86.117.155] helo=localhost)
+	by eximak2-node-default1.stable.cz with esmtpa (Exim 4.92.3)
+	(envelope-from <info@stavebnezakazky.eu>)
+	id 1jiccJ-000SxT-4b
+	for info@muranowski.pl; Tue, 09 Jun 2020 13:40:31 +0200
+MIME-Version: 1.0
+X-Mailer: Nette Framework
+Date: Tue, 09 Jun 2020 13:40:31 +0200
+From: "Praca AT, DE, CH, NL" <info@stavebnezakazky.eu>
+To: info@muranowski.pl
+Subject: =?UTF-8?B?cHJhY2EgZGxhIGZpcm0gYnVkb3dsYW55Y2ggemEgZ3Jhbmk=?=
+	=?UTF-8?B?Y8SF?=
+X-CampaignID: ksIblBNdhOtXkG9xC9p3
+X-UserID: miroslavprace@gmail.com
+Message-ID: <wp2nfcttsi@eximak2-sql.stable.cz>
+Content-Type: multipart/alternative;
+	boundary="--------a7d0f77wnf"
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "blu24s02.bluserwer.pl",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Dzień dobry, kontaktujemy się z Państwem jako z firmą
+   budowlaną. Chcielibyśmy zaprosić Państwa do współpracy w zakresie dostaw
+    robót budowlanych, jeśli firma, a także jako osoby prowadzące działalność
+    na własny rachunek. 
+ Content analysis details:   (1.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: stable.cz]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.7 HTML_IMAGE_ONLY_20     BODY: HTML: images with 1600-2000 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.5 KAM_EU                 RAW: Prevalent use of .eu in spam/malware
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+----------a7d0f77wnf
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dzień dobry,
+ 
+kontaktujemy się z Państwem jako z firmą budowlaną.
+ 
+Chcielibyśmy zaprosić Państwa do współpracy w zakresie dostaw robót budowlanych, jeśli firma, a także jako osoby prowadzące działalność na własny rachunek.
+ 
+Regularnie co tydzień wymagamy dostaw robót budowlanych w krajach takich jak: AT, DE, CH, BE, NL
+ 
+Teraz potrzebujemy głównie murarzy, hydraulików, izolacji fasad, płyt gipsowo-kartonowych, płytek, tynku maszynowego, a także wszystkich innych zawodów.
+ 
+Nagrody:
+- od 19 € / godzinę w Niemczech, do 38 CHF / godzinę w Szwajcarii
+- fakturowanie tygodniowe, termin zapadalności faktury 14 dni (ustna umowa 2-3 dni)
+ 
+W przypadku zainteresowania chcielibyśmy zaprosić Państwa do wypełnienia następujących krótkich informacji tutaj:
+https://www.jobsprofis.eu/pl/formuly/poddostawca <https://www.jobsprofis.eu/pl/formuly/poddostawca>
+ 
+Wypełnienie informacji (1 min. Czas, wypełnienie jest również możliwe w telefonie komórkowym) jest koniecznością do dalszej komunikacji.
+ 
+Po wypełnieniu skontaktujemy się z Tobą telefonicznie i podamy opcje.
+ 
+Pozdrowienia,
+Lenka Černá
+info@jobsprofis.eu
+----------a7d0f77wnf
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Dzień dobry,</p>
+<p>kontaktujemy się z Państwem jako z <strong>firmą budowlaną</strong>.</p>
+<p>Chcielibyśmy zaprosić Państwa do współpracy w zakresie dostaw robót budowlanych, jeśli firma, a także jako osoby prowadzące działalność na własny rachunek.</p>
+<p>Regularnie co tydzień wymagamy dostaw robót budowlanych w krajach takich jak: AT, DE, CH, BE, NL</p>
+<p><em>Teraz potrzebujemy głównie <strong>murarzy</strong>, <strong>hydraulików</strong>, izolacji <strong>fasad</strong>, <strong>płyt</strong> gipsowo-kartonowych, płytek, <strong>tynku</strong> maszynowego, a także wszystkich <strong>innych zawodów</strong>.</em></p>
+<p>Nagrody:<br />- od 19 &euro; / godzinę w Niemczech, do 38 CHF / godzinę w Szwajcarii<br />- fakturowanie tygodniowe, termin zapadalności faktury 14 dni (ustna umowa 2-3 dni)</p>
+<p><strong>W przypadku zainteresowania chcielibyśmy zaprosić Państwa do wypełnienia następujących krótkich informacji tutaj:</strong><br /><a href="https://www.jobsprofis.eu/pl/formuly/poddostawca">https://www.jobsprofis.eu/pl/formuly/poddostawca</a></p>
+<p><em>Wypełnienie informacji (1 min. Czas, wypełnienie jest również możliwe w telefonie komórkowym) jest koniecznością do dalszej komunikacji.</em></p>
+<p>Po wypełnieniu skontaktujemy się z Tobą telefonicznie i podamy opcje.</p>
+<p>Pozdrowienia,<br />Lenka Černá<br />info@jobsprofis.eu</p>
+<img src="https://klerk.stable.cz/opened/?cid=ksIblBNdhOtXkG9xC9p3%7Cb95a4c87033ed2e6e286cca9d9c5a4b4eeda1cdf2e7baf8540c65c1b3aa9b265%7C44827" width=1 height=1 border=0 alt="view placeholder"/></body>
+</html>
+----------a7d0f77wnf--

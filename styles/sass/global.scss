@@ -1,0 +1,144 @@
+// Custom variables
+@import "variables";
+
+// Bootstrap
+@import "./bootstrap/bootstrap";
+
+
+//Partials
+@import "footer";
+@import "header";
+@import "search-form";
+@import "slider";
+@import "./page_addition.scss";
+
+// Custom styles
+a {
+    color: inherit;
+
+    &:hover {
+        text-decoration: none;
+        color: $warning;
+    }
+}
+
+.btn {
+    &:hover {
+        text-decoration: none;
+        color: $warning;
+    }
+}
+
+body {
+    background-color: $light;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+
+//animations
+
+.animated-ads {
+
+    &:hover{
+        animation-name: pulse;
+    }
+}
+
+// .animated-add-button {
+//     animation-name: fadeInUpBig;
+// }
+
+//style od Dominika
+#terms {
+    &:hover {
+        font-weight: none;
+        color:$warning;
+        font-size: 16px;
+        font-family: sans-serif;
+        cursor: pointer;
+    }
+}
+
+
+
+#kombi-button {
+    position: relative;
+    padding-left: 48px;
+
+    &:after {
+        content: '';
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        background: url('../../images/combi.png') no-repeat center center / cover;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 8px;
+        
+    }
+
+}
+
+#sedan-button {
+    position: relative;
+    padding-left: 48px;
+
+    &:after {
+        content: '';
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        background: url('../../images/sedan.png') no-repeat center center / cover;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 8px;
+        
+    }
+
+}
+#suv-button {
+    position: relative;
+    padding-left: 48px;
+
+    &:after {
+        content: '';
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        background: url('../../images/suv.png') no-repeat center center / cover;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 8px;
+        
+    }
+
+}
+
+#category_all-button {
+    position: relative;
+    padding-left: 48px;
+
+    &:after {
+        content: '';
+        position: absolute;
+        width: 32px;
+        height: 32px;
+        padding: 1rem 0;
+        background: url('../../images/wheel.png') no-repeat center center / cover;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 16px;
+    }
+
+}
+
+//style dla ikonek w cards
+.cards_icon {
+    width: 32px;
+    height: 32px;
+    margin-left: 16px;
+}
+#about_icon {
+    margin-bottom: 8px;
+}

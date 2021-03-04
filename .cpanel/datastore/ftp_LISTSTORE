@@ -1,0 +1,1 @@
+{"data":[{"homedir":"/home/obzhqeqa","type":"main","user":"obzhqeqa"},{"type":"logaccess","homedir":"/etc/apache2/logs/domlogs/obzhqeqa","user":"obzhqeqa_logs"}],"timeout":0,"version":"2.4","action":"fetch","error":0,"exit_code":0,"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","mode":"simple","status":1}

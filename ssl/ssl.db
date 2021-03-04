@@ -1,0 +1,123 @@
+--- 
+files: 
+  certificate: 
+    muranowski_pl_acc6b_6d901_1593907199_5c10c98c54ca235c274946fb9c9a9a1b: 
+      created: '1586047383'
+      domains: 
+        - muranowski.pl
+        - cpanel.muranowski.pl
+        - cpcalendars.muranowski.pl
+        - cpcontacts.muranowski.pl
+        - mail.muranowski.pl
+        - webdisk.muranowski.pl
+        - webmail.muranowski.pl
+        - www.muranowski.pl
+      friendly_name: Cert for “muranowski.pl” 1586047383.0
+      id: muranowski_pl_acc6b_6d901_1593907199_5c10c98c54ca235c274946fb9c9a9a1b
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      modulus: acc6ba29bce94a684f650a4ce0c3c3b551c9919fa3dc088ef121730fba89ff52117f55f756b6904bb3b4d2d404b83c6a2f63f075bb295277b83f8c3ba17d6e8d617b14c7bb10ace592838a1dae43d0dba2a1d1711f72d6518015b7cb1808208bfafe657cc06d757d0edb82c4e86620a84dcad9066ca3981baf6c2982e2bfb2e7797d4a5da3e94a93d33d68439ff91fe48c6830858a1f0ff9a3279de373c9e43a8bdb7cac3f4c05802d86629c58a66736c37cf0ffc6d13a1a56f4870026d243af211f55d1fae6ae8049f56df9ffd962d8d5c0186a8b38b0a05d2152516ac7f195703e946a9b24643ee37f6b02a913a5858849adcccc436ecb52d3b846e176d901
+      modulus_length: 2048
+      not_after: '1593907199'
+      not_before: '1586044800'
+      serial: 6572fd133b817816b7b05504ed5a37e3
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: muranowski.pl
+      validation_type: dv
+    muranowski_pl_cd903_141af_1617561007_d648f6a37b3abefc4a664e77678d41da: 
+      created: '1586025007'
+      domains: 
+        - muranowski.pl
+        - mail.muranowski.pl
+        - www.muranowski.pl
+        - cpanel.muranowski.pl
+        - webmail.muranowski.pl
+        - webdisk.muranowski.pl
+        - cpcontacts.muranowski.pl
+        - cpcalendars.muranowski.pl
+      friendly_name: Cert for “muranowski.pl”
+      id: muranowski_pl_cd903_141af_1617561007_d648f6a37b3abefc4a664e77678d41da
+      is_self_signed: 1
+      issuer.commonName: muranowski.pl
+      issuer.organizationName: ~
+      modulus: cd903d86dc759c582138ccbbb5f52600ddfeca0ba1cd55719526666a6f3d8c6584c36231588ff16d95b07abe6a27314fa189e7cd14913ddc6a0f513687dea9e076aac483358d92198ccc49163e5df81a0e9044693eea7a50894c3f03ca127002a4126d5a87d0c64aff03bad803fb0eb13281dd429ea2a3681fd588437c0077e96c494c4355210e9dea4389b0f9a2f1426c6263be87bf8e1db49d5776ef9437d2ae77e1b05622deb5e1d922bede1e6eaebcbaf0089f2b58aa396535fc2989233d687be3a43eba647d94e329a33756eab63da81a79080f3c9c5a64ff63797ea0ecafec9d086a8bd799e8155d1f858e1476291e6a6d3473d3c804b4a565f5a141af
+      modulus_length: 2048
+      not_after: '1617561007'
+      not_before: '1586025007'
+      serial: 0161ea09b3
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: muranowski.pl
+      validation_type: ~
+    muranowski_pl_ea77b_47a07_1607039999_a3b6ac7471b27f7c72193ef93becb59a: 
+      created: '1599180183'
+      domains: 
+        - muranowski.pl
+        - cpanel.muranowski.pl
+        - cpcalendars.muranowski.pl
+        - cpcontacts.muranowski.pl
+        - mail.muranowski.pl
+        - webdisk.muranowski.pl
+        - webmail.muranowski.pl
+        - www.muranowski.pl
+      friendly_name: Cert for “muranowski.pl” 1599180183.0
+      id: muranowski_pl_ea77b_47a07_1607039999_a3b6ac7471b27f7c72193ef93becb59a
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      modulus: ea77b96129886aef1741938b8ded2452ab7f937d06b7520ae889ff38f80566d0d254d468eb72188f885945dc21e096d1d0f8194145003425cca3930741cd965531190e0223f584ec3fc8625a30564a6c72fc220bd47dd5355258f2a509695d72ce06edfcf270a4a4cb337e3ad2450c9818e9a6204e834f3b9df8a0d8059ee9317a9b19dc62edafca098b19d76cd0c33dd3d263b3ac5b90dcca31f8aa9fc1bda972b27184c47238f4ed1c07703a011c70a9dabf3e1001fc22caba8a7d37788815efd4da86b9bfd4eae17222ef9c89ac50995260660f0865fd73865ef54a8119f556c8b7e73d5b4c17ecd97ba824e9549a56fca5a4cd1684d261660565b6f47a07
+      modulus_length: 2048
+      not_after: '1607039999'
+      not_before: '1599177600'
+      serial: 9618d0e29627ff12c4aadefe89453814
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: muranowski.pl
+      validation_type: dv
+  key: 
+    acc6b_6d901_33bd006b5a6ae67a5d8a88847ea782df: 
+      created: '1586047383'
+      friendly_name: Key for “muranowski.pl” 1586047383.0
+      id: acc6b_6d901_33bd006b5a6ae67a5d8a88847ea782df
+      modulus: acc6ba29bce94a684f650a4ce0c3c3b551c9919fa3dc088ef121730fba89ff52117f55f756b6904bb3b4d2d404b83c6a2f63f075bb295277b83f8c3ba17d6e8d617b14c7bb10ace592838a1dae43d0dba2a1d1711f72d6518015b7cb1808208bfafe657cc06d757d0edb82c4e86620a84dcad9066ca3981baf6c2982e2bfb2e7797d4a5da3e94a93d33d68439ff91fe48c6830858a1f0ff9a3279de373c9e43a8bdb7cac3f4c05802d86629c58a66736c37cf0ffc6d13a1a56f4870026d243af211f55d1fae6ae8049f56df9ffd962d8d5c0186a8b38b0a05d2152516ac7f195703e946a9b24643ee37f6b02a913a5858849adcccc436ecb52d3b846e176d901
+      modulus_length: 2048
+    cd903_141af_bce7e3fe5ded86e7e425c9fcbedf86df: 
+      created: '1586025007'
+      friendly_name: Key for “muranowski.pl”
+      id: cd903_141af_bce7e3fe5ded86e7e425c9fcbedf86df
+      modulus: cd903d86dc759c582138ccbbb5f52600ddfeca0ba1cd55719526666a6f3d8c6584c36231588ff16d95b07abe6a27314fa189e7cd14913ddc6a0f513687dea9e076aac483358d92198ccc49163e5df81a0e9044693eea7a50894c3f03ca127002a4126d5a87d0c64aff03bad803fb0eb13281dd429ea2a3681fd588437c0077e96c494c4355210e9dea4389b0f9a2f1426c6263be87bf8e1db49d5776ef9437d2ae77e1b05622deb5e1d922bede1e6eaebcbaf0089f2b58aa396535fc2989233d687be3a43eba647d94e329a33756eab63da81a79080f3c9c5a64ff63797ea0ecafec9d086a8bd799e8155d1f858e1476291e6a6d3473d3c804b4a565f5a141af
+      modulus_length: 2048
+    ea77b_47a07_a59ff7d1b65aa73563183843f3c3bed6: 
+      created: '1599180183'
+      friendly_name: Key for “muranowski.pl” 1599180183.0
+      id: ea77b_47a07_a59ff7d1b65aa73563183843f3c3bed6
+      modulus: ea77b96129886aef1741938b8ded2452ab7f937d06b7520ae889ff38f80566d0d254d468eb72188f885945dc21e096d1d0f8194145003425cca3930741cd965531190e0223f584ec3fc8625a30564a6c72fc220bd47dd5355258f2a509695d72ce06edfcf270a4a4cb337e3ad2450c9818e9a6204e834f3b9df8a0d8059ee9317a9b19dc62edafca098b19d76cd0c33dd3d263b3ac5b90dcca31f8aa9fc1bda972b27184c47238f4ed1c07703a011c70a9dabf3e1001fc22caba8a7d37788815efd4da86b9bfd4eae17222ef9c89ac50995260660f0865fd73865ef54a8119f556c8b7e73d5b4c17ecd97ba824e9549a56fca5a4cd1684d261660565b6f47a07
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      acc6ba29bce94a684f650a4ce0c3c3b551c9919fa3dc088ef121730fba89ff52117f55f756b6904bb3b4d2d404b83c6a2f63f075bb295277b83f8c3ba17d6e8d617b14c7bb10ace592838a1dae43d0dba2a1d1711f72d6518015b7cb1808208bfafe657cc06d757d0edb82c4e86620a84dcad9066ca3981baf6c2982e2bfb2e7797d4a5da3e94a93d33d68439ff91fe48c6830858a1f0ff9a3279de373c9e43a8bdb7cac3f4c05802d86629c58a66736c37cf0ffc6d13a1a56f4870026d243af211f55d1fae6ae8049f56df9ffd962d8d5c0186a8b38b0a05d2152516ac7f195703e946a9b24643ee37f6b02a913a5858849adcccc436ecb52d3b846e176d901: 
+        muranowski_pl_acc6b_6d901_1593907199_5c10c98c54ca235c274946fb9c9a9a1b: ~
+      cd903d86dc759c582138ccbbb5f52600ddfeca0ba1cd55719526666a6f3d8c6584c36231588ff16d95b07abe6a27314fa189e7cd14913ddc6a0f513687dea9e076aac483358d92198ccc49163e5df81a0e9044693eea7a50894c3f03ca127002a4126d5a87d0c64aff03bad803fb0eb13281dd429ea2a3681fd588437c0077e96c494c4355210e9dea4389b0f9a2f1426c6263be87bf8e1db49d5776ef9437d2ae77e1b05622deb5e1d922bede1e6eaebcbaf0089f2b58aa396535fc2989233d687be3a43eba647d94e329a33756eab63da81a79080f3c9c5a64ff63797ea0ecafec9d086a8bd799e8155d1f858e1476291e6a6d3473d3c804b4a565f5a141af: 
+        muranowski_pl_cd903_141af_1617561007_d648f6a37b3abefc4a664e77678d41da: ~
+      ea77b96129886aef1741938b8ded2452ab7f937d06b7520ae889ff38f80566d0d254d468eb72188f885945dc21e096d1d0f8194145003425cca3930741cd965531190e0223f584ec3fc8625a30564a6c72fc220bd47dd5355258f2a509695d72ce06edfcf270a4a4cb337e3ad2450c9818e9a6204e834f3b9df8a0d8059ee9317a9b19dc62edafca098b19d76cd0c33dd3d263b3ac5b90dcca31f8aa9fc1bda972b27184c47238f4ed1c07703a011c70a9dabf3e1001fc22caba8a7d37788815efd4da86b9bfd4eae17222ef9c89ac50995260660f0865fd73865ef54a8119f556c8b7e73d5b4c17ecd97ba824e9549a56fca5a4cd1684d261660565b6f47a07: 
+        muranowski_pl_ea77b_47a07_1607039999_a3b6ac7471b27f7c72193ef93becb59a: ~
+    subject.commonName: 
+      muranowski.pl: 
+        muranowski_pl_acc6b_6d901_1593907199_5c10c98c54ca235c274946fb9c9a9a1b: ~
+        muranowski_pl_cd903_141af_1617561007_d648f6a37b3abefc4a664e77678d41da: ~
+        muranowski_pl_ea77b_47a07_1607039999_a3b6ac7471b27f7c72193ef93becb59a: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “muranowski.pl”: muranowski_pl_cd903_141af_1617561007_d648f6a37b3abefc4a664e77678d41da
+      Cert for “muranowski.pl” 1586047383.0: muranowski_pl_acc6b_6d901_1593907199_5c10c98c54ca235c274946fb9c9a9a1b
+      Cert for “muranowski.pl” 1599180183.0: muranowski_pl_ea77b_47a07_1607039999_a3b6ac7471b27f7c72193ef93becb59a
+  key: 
+    friendly_name: 
+      Key for “muranowski.pl”: cd903_141af_bce7e3fe5ded86e7e425c9fcbedf86df
+      Key for “muranowski.pl” 1586047383.0: acc6b_6d901_33bd006b5a6ae67a5d8a88847ea782df
+      Key for “muranowski.pl” 1599180183.0: ea77b_47a07_a59ff7d1b65aa73563183843f3c3bed6
+    modulus: 
+      acc6ba29bce94a684f650a4ce0c3c3b551c9919fa3dc088ef121730fba89ff52117f55f756b6904bb3b4d2d404b83c6a2f63f075bb295277b83f8c3ba17d6e8d617b14c7bb10ace592838a1dae43d0dba2a1d1711f72d6518015b7cb1808208bfafe657cc06d757d0edb82c4e86620a84dcad9066ca3981baf6c2982e2bfb2e7797d4a5da3e94a93d33d68439ff91fe48c6830858a1f0ff9a3279de373c9e43a8bdb7cac3f4c05802d86629c58a66736c37cf0ffc6d13a1a56f4870026d243af211f55d1fae6ae8049f56df9ffd962d8d5c0186a8b38b0a05d2152516ac7f195703e946a9b24643ee37f6b02a913a5858849adcccc436ecb52d3b846e176d901: acc6b_6d901_33bd006b5a6ae67a5d8a88847ea782df
+      cd903d86dc759c582138ccbbb5f52600ddfeca0ba1cd55719526666a6f3d8c6584c36231588ff16d95b07abe6a27314fa189e7cd14913ddc6a0f513687dea9e076aac483358d92198ccc49163e5df81a0e9044693eea7a50894c3f03ca127002a4126d5a87d0c64aff03bad803fb0eb13281dd429ea2a3681fd588437c0077e96c494c4355210e9dea4389b0f9a2f1426c6263be87bf8e1db49d5776ef9437d2ae77e1b05622deb5e1d922bede1e6eaebcbaf0089f2b58aa396535fc2989233d687be3a43eba647d94e329a33756eab63da81a79080f3c9c5a64ff63797ea0ecafec9d086a8bd799e8155d1f858e1476291e6a6d3473d3c804b4a565f5a141af: cd903_141af_bce7e3fe5ded86e7e425c9fcbedf86df
+      ea77b96129886aef1741938b8ded2452ab7f937d06b7520ae889ff38f80566d0d254d468eb72188f885945dc21e096d1d0f8194145003425cca3930741cd965531190e0223f584ec3fc8625a30564a6c72fc220bd47dd5355258f2a509695d72ce06edfcf270a4a4cb337e3ad2450c9818e9a6204e834f3b9df8a0d8059ee9317a9b19dc62edafca098b19d76cd0c33dd3d263b3ac5b90dcca31f8aa9fc1bda972b27184c47238f4ed1c07703a011c70a9dabf3e1001fc22caba8a7d37788815efd4da86b9bfd4eae17222ef9c89ac50995260660f0865fd73865ef54a8119f556c8b7e73d5b4c17ecd97ba824e9549a56fca5a4cd1684d261660565b6f47a07: ea77b_47a07_a59ff7d1b65aa73563183843f3c3bed6

@@ -1,0 +1,3 @@
+Jun 09 13:41:21.427559 check[119443]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/obzhqeqa/.razor/razor-agent.log
+Jun 09 13:41:23.389139 check[119443]: [ 3] mail 1 is not known spam.
+Aug 17 07:41:26.360557 check[8490]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/obzhqeqa/.razor/razor-agent.log
